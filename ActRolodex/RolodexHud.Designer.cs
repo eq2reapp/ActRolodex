@@ -154,6 +154,7 @@ namespace ACT_Plugin
             this.pnlChars.Name = "pnlChars";
             this.pnlChars.Size = new System.Drawing.Size(384, 286);
             this.pnlChars.TabIndex = 1;
+            this.pnlChars.WrapContents = false;
             // 
             // RolodexHud
             // 
